@@ -33,9 +33,10 @@ names = ['Kristine', 'Rene', 'Shu', 'Alik', 'Victor', 'John']
 names << 'Gracias'
 names.push 'Jennifer'
 
-print "where is the tree of life?" .upcase
-puts "where is the tree of life?" .upcase
-ptint "when the stars rise and the full moon drowns"
+print "where is the tree of life?"
+print "where is the tree of life?"
+print "where is the tree of life ?"
 
-print "I am a rockstar"
+print "No idea."
+print "tree of life wherabouts unknown"
 
