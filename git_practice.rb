@@ -32,3 +32,6 @@ array = Array.new # this is also an empty array
 names = ['Kristine', 'Rene', 'Shu', 'Alik', 'Victor', 'John']
 names << 'Gracias'
 names.push 'Jennifer'
+
+
+"I'm awesome!"
