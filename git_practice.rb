@@ -36,3 +36,5 @@ names.push 'Jennifer'
 print "where is the tree of life?"
 print "where is the tree of life?"
 print "where is the tree of life ?"
+
+print "No idea."
