@@ -25,3 +25,15 @@ This repo will be used for Code The Dream students to explore the functionality 
 
 - git pull
   * pulls code from remote repository
+  
+- git stash
+  * hides your local changes temporarily for a git pull
+  
+- git stash apply
+  * restores stashed changes
+  
+- git stash drop
+  * removes stashed changes
+  
+- git diff
+  * allows the user to view the differences between two versions of the same file of code
