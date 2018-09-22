@@ -9,7 +9,7 @@ y = 7
 x + y
 
 # concatenation
-name = "Kristine"
+name = "John"
 "Hello my name is " + name
 
 # string interpolation
