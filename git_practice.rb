@@ -34,9 +34,6 @@ names << 'Gracias'
 names.push 'Jennifer'
 
 print "where is the tree of life?"
-print "where is the tree of life?"
-print "where is the tree of life ?"
-
+puts "where is the tree of life?" .upcase
 print "No idea."
 print "tree of life wherabouts unknown"
-
