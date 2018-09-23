@@ -2,15 +2,21 @@
 # variables
 x = 27 # integer 
 name = "Kristine" # string
+this_variable = "Lauren's practice variable."
 
 # expressions - using variable assignments to make equations
 x = 20
 y = 7
 x + y
+x = 17
 
 # concatenation
 name = "John"
 "Hello my name is " + name
+
+name = "Lauren"
+age = 26
+puts "Hi, my name is " + name + " and I am " + age.to_s + " years old. Nice to meet you!"
 
 # string interpolation
 name = "Kristine"
