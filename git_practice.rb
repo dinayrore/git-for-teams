@@ -17,7 +17,19 @@ name = "Kristine"
 print "What is your name? "
 name = gets.chomp 
 puts "Hello #{name}!"
+puts "Wow #{name} is a beautiful name!"
 
+puts
+print "how many seconds are in a week?"
+resp4=gets.chomp.to_s
+weeksecond= (7*24*60*60).to_s
+if
+    resp4 == weeksecond . to_s
+    puts "You are correct! There is #{weeksecond} seconds in a week"
+else 
+    puts  "Actually there is #{weeksecond} seconds in a week "
+end
+puts
 # loops
 command = ''
 while command != 'bye'
@@ -36,3 +48,4 @@ names.push 'Jennifer'
 print "where is the tree of life?"
 print "where is the tree of life?"
 print "where is the tree of life ?"
+puts
